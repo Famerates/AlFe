@@ -1,17 +1,18 @@
 {
 	"schemaVersion": 1,
 	"id": "alfe",
-	"version": "${version}",
+	"version": "0.0.1",
 	"name": "alfe",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a hypixel skyblock mod",
 	"authors": [
-		"Me!"
+		"Famerate",
+		"Alum1n"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "Empty :(",
+		"sources": "https://github.com/Famerates/AlFe"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/alfe/icon.png",
 	"environment": "*",
 	"entrypoints": {
