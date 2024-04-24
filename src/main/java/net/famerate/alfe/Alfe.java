@@ -17,6 +17,6 @@ public class Alfe implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Alfe initialized.");
+		LOGGER.info("Alfe initialized!");
 	}
 }
